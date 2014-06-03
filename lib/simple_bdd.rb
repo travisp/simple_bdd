@@ -1,4 +1,5 @@
 require "simple_bdd/version"
+require "rspec"
 
 module SimpleBdd
   class StepNotImplemented < StandardError; end
